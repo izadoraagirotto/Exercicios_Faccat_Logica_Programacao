@@ -26,7 +26,7 @@ Inicio
       senao
          desconto<- 0.05
       fimse
-      se combustivel ="B" entao
+      se combustivel ="G" entao
          preco<- 3.30
          se litros <= 20 entao
             desconto<- 0.04
